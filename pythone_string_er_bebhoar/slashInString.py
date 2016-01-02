@@ -1,0 +1,2 @@
+str = "Adam\'s"
+str
